@@ -1,0 +1,35 @@
+name: raman_svi
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - pip
+  - pint-xarray
+  - scipy
+  - xarray
+  - python=3.9
+  - h5py
+  - pentapy
+  - ipykernel
+  - packaging
+  - pybaselines
+  - matplotlib
+  - pint
+  - ipympl
+  - h5netcdf
+  - seaborn
+  - bottleneck
+  - dask
+  - pandas
+  - numba
+  - spyder-kernels=2.3
+  - pillow
+  - scikit-image
+  - zarr
+  - netcdf4
+  - tqdm
+  - scikit-learn
+  - pip:
+    - pyMCR
+    - easygui
