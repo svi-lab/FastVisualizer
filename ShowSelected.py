@@ -1164,7 +1164,7 @@ class ShowSelected(object):
 
 
 my_filename = easygui.fileopenbox("Choose your .wdf file",
-                                  default="../../../RamanData/*.wdf")
+                                  default="./Data/*.wdf")
 # my_filename = "/home/dejan/Documents/RamanData/frejus21/exampleA2.wdf"
 da, img = read_WDF(my_filename)
 
