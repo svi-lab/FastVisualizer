@@ -14,4 +14,4 @@ Open a terminal in the directory containing the downloaded files, and type:
 `conda activate raman_svi`
 to activate the environment
 then just run the script by typing:
-`python ShowSelected.py`
+`python HyperspectralExplorer.py`
