@@ -2,7 +2,7 @@
 Can be used for visual exploration of hyperspectral images (raman .wdf files only, for now)
 
 # Prerequisits
-You should have [Anaconda](https://www.anaconda.com/download/) installed
+You should have [Anaconda](https://www.anaconda.com/download/) or [Miniconda](https://docs.conda.io/en/main/miniconda.html) installed
 
 # Instructions:
 ### "Installation" (you just have to do it once)
